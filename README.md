@@ -1,7 +1,7 @@
 # FantasyGame
 
-ASP.NET WebAPI
-.NET 6
-EntityFramework Core
-CodeFirst
-SQL Server
+<br>ASP.NET WebAPI
+<br>.NET 6
+<br>EntityFramework Core
+<br>CodeFirst
+<br>SQL Server
